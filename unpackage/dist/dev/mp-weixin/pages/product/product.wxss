@@ -1,0 +1,51 @@
+
+.flcart {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	position: fixed;
+	left: 0rpx;
+	right: 0rpx;
+	bottom: 0rpx;
+	font-size: 14px;
+	line-height: 1.2;
+	border-top: 1rpx solid #eee;
+	background-color: #fff;
+	text-align: center;
+}
+.flcart-icon:before {
+	padding-top: 10rpx;
+	clear: both;
+	display: block;
+	font-size: 14px;
+	line-height: 1.2;
+}
+.flcart-f1,
+.flcart-f2 {
+	height: 100rpx;
+}
+.flcart-f1 {
+	width: 132rpx;
+	display: inline-block;
+
+	line-height: 50rpx;
+	font-size: 14px;
+}
+.flcart-f2 {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	line-height: 100rpx;
+	background-color: #f90;
+	color: #fff;
+	font-size: 14px;
+}
+.flcart .f3 {
+	background-color: #f30;
+}
+.fcart .fbtn {}
+

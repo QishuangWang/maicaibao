@@ -1,0 +1,23 @@
+{
+	"data": [{
+		"price": "1.5",
+		"_id": "goods-1-1",
+		"imgurl": "http://img1.imgtn.bdimg.com/it/u=2463602982,1465629283\u0026fm=26\u0026gp=0.jpg",
+		"name": "花菜"
+	}, {
+		"price": "1.5",
+		"_id": "goods-1-2",
+		"imgurl": "http://img2.imgtn.bdimg.com/it/u=2002194188,3154397974&fm=26&gp=0.jpg",
+		"name": "包菜"
+	}, {
+		"price": "1.5",
+		"_id": "goods-1-3",
+		"imgurl": "http://img3.imgtn.bdimg.com/it/u=20324573,4004530846&fm=26&gp=0.jpg",
+		"name": "莴苣"
+	}, {
+		"price": "1.5",
+		"_id": "goods-1-4",
+		"imgurl": "http://img2.imgtn.bdimg.com/it/u=610497578,4194798850&fm=26&gp=0.jpg",
+		"name": "白菜苔"
+	}]
+}
